@@ -4,8 +4,19 @@
 
 *A local-first job application workflow.*
 
-[![CI](https://github.com/YOUR_GITHUB_USER/syntex/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_GITHUB_USER/syntex/actions/workflows/ci.yml)
+<p align="center">
+  <img src="https://cdn.corenexis.com/f/N9c7SYxhu9Q.jpeg" alt="Syntex Logo" width="180" />
+</p>
 
+<p align="center">
+  <em>A local-first job application workflow.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USER/syntex/actions/workflows/ci.yml">
+    <img src="https://github.com/YOUR_GITHUB_USER/syntex/actions/workflows/ci.yml/badge.svg" alt="CI" />
+  </a>
+</p>
 An AI-powered job application framework that runs inside [Claude Code](https://claude.com/claude-code). Fill in your profile, and let it evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.
 
 > Not affiliated with or endorsed by Anthropic.
