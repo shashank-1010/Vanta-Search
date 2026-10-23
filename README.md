@@ -349,17 +349,5 @@ You are responsible for complying with the terms of service, robots.txt rules an
 - `freehire-search` ships enabled but queries a third-party hosted service whose terms are not included in this repository; check them before relying on it.
 - Keep request volume low, do not use the tools for bulk data collection, and do not redistribute scraped data.
 
-## Contributing
 
-Thinking about a PR? Read [CONTRIBUTING.md](CONTRIBUTING.md) first - it explains what gets merged, what lives in forks, and why.
 
-## Acknowledgements
-
-- [Mikkel Krogholm](https://github.com/mikkelkrogsholm) ([skills repo](https://github.com/mikkelkrogsholm/skills)) for the job search CLI skills
-- Built with [Claude Code](https://claude.com/claude-code) by [Anthropic](https://anthropic.com)
-
-## License
-
-MIT - see [LICENSE](LICENSE).
-
-**Credits:** Syntex is derived from an MIT-licensed open-source project; see [LICENSE](LICENSE), [NOTICE.md](NOTICE.md) and [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
